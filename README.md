@@ -1,4 +1,4 @@
-# hy-vue-temp
+# Vue-template
 
 ## Project setup
 ```
